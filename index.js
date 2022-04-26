@@ -1,2 +1,6 @@
+let num1=31
+let num2=2
+const multiply = num1*num2
+console.log = multiply
 
-// Write your code here
+const random = 4
